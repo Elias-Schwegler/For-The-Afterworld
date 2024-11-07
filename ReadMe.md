@@ -1,3 +1,7 @@
+
+# Im Experimental Ordner kann man verbessete, aber noch ungetestete Versionen des Folgenden Skripts finden.
+
+
 ## Verbessertes Skript zum Herunterladen von Master und Releases
 
 Das folgende Python-Skript wurde optimiert, um sowohl den Master-Branch als auch die neuesten Releases eines GitHub-Projekts basierend nur auf der Projekt-URL herunterzuladen. Es ist robust gestaltet, enthält umfangreiche Protokollierung und ermöglicht eine einfache Wartung.
